@@ -159,7 +159,7 @@ composer test
 
 ## Security
 
-If you discover a security vulnerability, please email security@syscage.dev
+If you discover a security vulnerability, please email security@syscage.com
 rather than opening a public issue.
 
 ## License
