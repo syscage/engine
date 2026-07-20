@@ -1,0 +1,8 @@
+{
+    "name": "demo-plugin",
+    "display_name": "Demo Plugin",
+    "description": "A fixture plugin used only by the test suite.",
+    "version": "1.0.0",
+    "enabled": true,
+    "provider": "Plugin\\Demo\\Providers\\PluginServiceProvider"
+}
